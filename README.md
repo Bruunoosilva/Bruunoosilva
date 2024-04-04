@@ -45,7 +45,7 @@
 
   <!-- Portfolio -->
 ## Portfolio:
-- Em andamento
+- Em andamento...
 
 <!-- GIF -->
 <p align="left">
