@@ -16,7 +16,7 @@
 
   - 💬 Me chamo Bruno, tenho 21 anos de idade, trabalho como Assistente de TI e faço Análise e Desenvolvimento de Sistemas na FMU. Meus conhecimentos na área inclui instalação, configuração e otimização de sistemas operacionais, resolução de problemas de hardware e software, bem como gerenciamento de contas de usuário, permissões e monitoramento via Zabbix. Além disso, possuo conhecimentos básicos em redes e programação, usando as linguagens HTML, CSS, JavaScript, Python e GitHub.
 
-  - ⚡ Meu objetivo é cultivar uma carreira sólida e estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Tenho um compromisso firme em me manter atualizado com as tendências da área e estou pronto para enfrentar novos projetos que exigem criatividade, dedicação e resolução de problemas. \o/
+  - ⚡ Meu principal objetivo é cultivar uma carreira sólida e estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Tenho um compromisso firme em me manter atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos que exigem criatividade, dedicação e a resolução de problemas.. \o/
 </details>
 
 <br><!-- Estatísticas -->
@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruunoosilva&layout=compact&theme=react)
 </p>
   
-## 🔥 Skills
+## 🔥 Domínios
 <!-- Linguagens de Programação -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
@@ -43,8 +43,8 @@
     <img align="center" alt="Sublime" height="32" width="32" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
   </div><br>
 
-  <!-- Portfolio -->
-## Portfolio:
+  <!-- Portfólio -->
+## 🔥 Portfólio:
 - Em andamento...
 
 <!-- GIF -->
