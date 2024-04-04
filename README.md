@@ -14,31 +14,18 @@
 <details>
   <summary>Mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Me chamo Bruno, tenho 21 anos de idade, trabalho como Assistente de TI e faço Análise e Desenvolvimento de Sistemas na FMU. Meus conhecimentos na área inclui instalação, configuração e otimização de sistemas operacionais, resolução de problemas de hardware e software, bem como gerenciamento de contas de usuário, permissões e monitoramento via Zabbix. Além disso, possuo conhecimentos básicos em redes e programação, usando as linguagens HTML, CSS, JavaScript, Python e GitHub.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Meu objetivo é cultivar uma carreira sólida e estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Tenho um compromisso firme em me manter atualizado com as tendências da área e estou pronto para enfrentar novos projetos que exigem criatividade, dedicação e resolução de problemas. \o/
 </details>
 
 <br><!-- Estatísticas -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruunoosilva&rank_icon=github&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruunoosilva&layout=compact&theme=react)
 </p>
-
-
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
+  
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Linguagens de Programação -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,13 +34,23 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Ferramentas e estruturas -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas e estruturas</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+    <img align="center" alt="VScode" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Dreamweaver" height="32" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg">
+    <img align="center" alt="Sublime" height="32" width="32" src="https://iconape.com/wp-content/files/yy/99728/png/sublime-text.png">
+    <img align="center" alt="Sublime" height="32" width="32" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
+  </div><br>
 
+  <!-- Portfolio -->
+## Portfolio:
+- Em andamento
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Imagem">
+</p>
 
 
 
