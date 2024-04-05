@@ -45,7 +45,7 @@
 
   <!-- Portfólio -->
 ## 🔥 Portfólio:
-- Em andamento...
+- Em processo de construção...
 
 <!-- GIF -->
 <p align="left">
