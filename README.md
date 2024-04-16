@@ -7,16 +7,16 @@
 <!-- Apresentação -->
 <p>
 🖥️ Assistente TI | Suporte Técnico<br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - FMU<br>
+🎓 Análise e Desenvolvimento de Sistemas - FMU<br>
 🌎 São Paulo, SP
 
 <!-- Sobre mim -->
 <details>
   <summary>Mais sobre mim</summary>
 
-  - 💬 Me chamo Bruno, tenho 21 anos de idade, trabalho como Assistente de TI e faço Análise e Desenvolvimento de Sistemas na FMU. Meus conhecimentos na área inclui instalação, configuração e otimização de sistemas operacionais, resolução de problemas de hardware e software, bem como gerenciamento de contas de usuário, permissões e monitoramento via Zabbix. Além disso, possuo conhecimentos básicos em redes e programação, usando as linguagens HTML, CSS, JavaScript, Python e GitHub.
+  - 💬 Olá! Me chamo Bruno, tenho 21 anos, trabalho como Assistente de TI e faço Análise e Desenvolvimento de Sistemas na FMU. Meus conhecimentos incluem instalação, montagem e desmontagem de PCs, configuração e otimização do Windows, resolução de problemas de hardware e software, bem como gerenciamento de contas de usuário, permissões e monitoramento via Zabbix. Além disso, possuo conhecimento em programação, utilizando linguagens como HTML, CSS, JavaScript e Python.
 
-  - ⚡ Meu principal objetivo é cultivar uma carreira sólida e estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Tenho um compromisso firme em me manter atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos que exigem criatividade, dedicação e a resolução de problemas.. \o/
+  - ⚡ Meu objetivo principal é cultivar uma carreira estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Comprometo-me em estar sempre atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos e desafios que exigem criatividade, dedicação e a resolução de problemas... \o/
 </details>
 
 <br><!-- Estatísticas -->
@@ -45,15 +45,9 @@
 
   <!-- Portfólio -->
 ## 🔥 Portfólio:
-- Em processo de construção...
+- Portfolio em desenvolvimento. Em breve atualizações!
 
 <!-- GIF -->
 <p align="left">
   <img align="center" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Imagem">
 </p>
-
-
-
-
-
-
