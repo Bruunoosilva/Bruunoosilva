@@ -12,23 +12,23 @@
 
 <!-- Sobre mim -->
 <details>
-  <summary>Mais sobre mim</summary>
+  <summary>Mais sobre mim</summary><br>
 
   - 💬 Olá! Me chamo Bruno, tenho 22 anos e atualmente trabalho como Assistente de TI enquanto curso Análise e Desenvolvimento de Sistemas na FMU. Busco sempre aprender e me manter atualizado sobre as tendências e tecnologias da área para contribuir com a melhoria contínua de meus serviços.
 
 Minhas experiências e habilidades na área incluem:
 
-•Instalação, montagem e desmontagem de computadores
-•Instalação e configuração de impressoras: Laserjet/Deskjet
-•Administração de rede utilizando Active Directory
-•Configuração e otimização do Windows
-•Conhecimento em redes (protocolos, VPN, firewall)
-•Suporte remoto a usuários
-•Resolução de problemas de hardware e software
-•Gerenciamento de contas de usuário e permissões
-•Monitoramento de segurança via Zabbix
-•Monitoramento e suporte de firewall via PfSense
-•Programação em HTML, CSS, JavaScript e Python
+•Instalação, montagem e desmontagem de computadores<br>
+•Instalação e configuração de impressoras: Laserjet/Deskjet<br>
+•Administração de rede utilizando Active Directory<br>
+•Configuração e otimização do Windows<br>
+•Conhecimento em redes (protocolos, VPN, firewall)<br>
+•Suporte remoto a usuários<br>
+•Resolução de problemas de hardware e software<br>
+•Gerenciamento de contas de usuário e permissões<br>
+•Monitoramento de segurança via Zabbix<br>
+•Monitoramento e suporte de firewall via PfSense<br>
+•Programação em HTML, CSS, JavaScript e Python<br>
 
   - ⚡ Meu objetivo principal é cultivar uma carreira estável em tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Comprometo-me em estar sempre atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos e desafios que exigem criatividade, dedicação e resolução de problemas. \o/
 </details>
