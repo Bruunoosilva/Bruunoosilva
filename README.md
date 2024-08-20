@@ -7,16 +7,30 @@
 <!-- Apresentação -->
 <p>
 🖥️ Assistente TI | Suporte Técnico<br>
-🎓 Análise e Desenvolvimento de Sistemas - FMU<br>
-🌎 São Paulo, SP
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+🌎 São Paulo, Brasil
 
 <!-- Sobre mim -->
 <details>
   <summary>Mais sobre mim</summary>
 
-  - 💬 Olá! Me chamo Bruno, tenho 21 anos, trabalho como Assistente de TI e faço Análise e Desenvolvimento de Sistemas na FMU. Meus conhecimentos incluem instalação, montagem e desmontagem de PCs, configuração e otimização do Windows, resolução de problemas de hardware e software, bem como gerenciamento de contas de usuário, permissões e monitoramento via Zabbix. Além disso, possuo conhecimento em programação, utilizando linguagens como HTML, CSS, JavaScript e Python.
+  - 💬 Olá! Me chamo Bruno, tenho 22 anos e atualmente trabalho como Assistente de TI enquanto curso Análise e Desenvolvimento de Sistemas na FMU. Busco sempre aprender e me manter atualizado sobre as tendências e tecnologias da área para contribuir com a melhoria contínua de meus serviços.
 
-  - ⚡ Meu objetivo principal é cultivar uma carreira estável na área da tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Comprometo-me em estar sempre atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos e desafios que exigem criatividade, dedicação e a resolução de problemas... \o/
+Minhas experiências e habilidades na área incluem:
+
+•Instalação, montagem e desmontagem de computadores
+•Instalação e configuração de impressoras: Laserjet/Deskjet
+•Administração de rede utilizando Active Directory
+•Configuração e otimização do Windows
+•Conhecimento em redes (protocolos, VPN, firewall)
+•Suporte remoto a usuários
+•Resolução de problemas de hardware e software
+•Gerenciamento de contas de usuário e permissões
+•Monitoramento de segurança via Zabbix
+•Monitoramento e suporte de firewall via PfSense
+•Programação em HTML, CSS, JavaScript e Python
+
+  - ⚡ Meu objetivo principal é cultivar uma carreira estável em tecnologia, sempre buscando o desenvolvimento pessoal e profissional. Comprometo-me em estar sempre atualizado com todas as tendências da área e estou pronto para enfrentar novos projetos e desafios que exigem criatividade, dedicação e resolução de problemas. \o/
 </details>
 
 <br><!-- Estatísticas -->
@@ -45,7 +59,7 @@
 
   <!-- Portfólio -->
 ## 🔥 Portfólio:
-- Portfolio em desenvolvimento. Em breve atualizações!
+- Portfolio em desenvolvimento. Em breve atualizações..
 
 <!-- GIF -->
 <p align="left">
