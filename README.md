@@ -82,10 +82,12 @@
 <h2 align="center">🌐 Meu Portfólio Oficial</h2>
 
 <p align="center">
-  <a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-%230A66C2?style=for-the-badge&logoColor=white&logo=google-chrome&labelColor=001F3F&color=0057D9" />
-  </a>
+
+<a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-%230A66C2?style=for-the-badge&logoColor=white&logo=google-chrome&labelColor=001F3F&color=0057D9" />
+</a>
 </p>
+
 
 <p align="center">
   <em>Este é o meu portfólio principal, onde organizo meus projetos de infraestrutura, automação, suporte, cloud e desenvolvimento web.</em>
