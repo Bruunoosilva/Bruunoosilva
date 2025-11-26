@@ -47,7 +47,6 @@
 <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bruunoosilva&show_icons=true&theme=react&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruunoosilva&layout=compact&theme=react&hide_border=true"/>
 </p>
 
@@ -84,9 +83,10 @@
 
 <p align="center">
   <a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-0057D9?style=for-the-badge&logo=microsoft-edge&logoColor=white&labelColor=0A66C2" />
   </a>
 </p>
+
 
 <p align="center">
   <em>Este é o meu portfólio principal, onde organizo meus projetos de infraestrutura, automação, suporte, cloud e desenvolvimento web.</em>
