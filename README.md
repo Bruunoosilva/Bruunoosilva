@@ -79,12 +79,19 @@
 
 ---
 
-<h2 align="center">🚀 Portfólio</h2>
+<!-- Portfólio -->
+<h2 align="center">🌐 Meu Portfólio Oficial</h2>
 
 <p align="center">
-  <em>💡 Em breve novas atualizações e projetos!</em><br>
-  <em>Meu portfólio está em desenvolvimento com foco em projetos de <strong>infraestrutura, automação e desenvolvimento web</strong>.</em>
+  <a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <em>Este é o meu portfólio principal, onde organizo meus projetos de infraestrutura, automação, suporte, cloud e desenvolvimento web.</em>
+</p>
+
 
 <!-- GIF -->
 <p align="center">
