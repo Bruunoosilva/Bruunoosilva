@@ -6,8 +6,8 @@
 
 <!-- Apresentação -->
 <p align="center">
-💻 <strong>Analista de Suporte Técnico | Infraestrutura | Cloud | Microsoft 365 | Redes</strong><br>
-🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FMU<br>
+💻 <strong>Analista de Infraestrutura & Suporte Técnico | Cloud | Microsoft 365 | Redes & Firewall</strong><br>
+🎓 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
 📍 São Paulo, Brasil
 </p>
 
@@ -17,28 +17,30 @@
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary><br>
 
-  Olá! Me chamo <strong>Bruno Santos</strong>, tenho 23 anos e sou apaixonado por tecnologia e inovação.  
-  Atualmente atuo como <strong>Analista de Suporte Técnico</strong>, com foco em <strong>infraestrutura, cloud e administração de ambientes corporativos</strong>.
+  Olá! Me chamo <strong>Bruno Santos</strong> e atuo em ambientes corporativos de TI com foco em 
+  <strong>suporte técnico, infraestrutura e cloud</strong>, garantindo estabilidade operacional, segurança e continuidade dos serviços.
 
-  💡 Busco constantemente aprimorar minhas habilidades e contribuir para ambientes de TI mais estáveis, seguros e eficientes.
+  Tenho experiência em <strong>atendimento remoto e field</strong>, análise e resolução de incidentes, 
+  cumprimento de SLAs e administração de ambientes corporativos Microsoft.
 
-  **Minhas principais competências incluem:**
+  **Principais competências técnicas:**
 
-  • Suporte técnico remoto e presencial a usuários corporativos  
-  • Administração de ambientes <strong>Microsoft 365</strong> (Admin Center, OneDrive, SharePoint)  
-  • Gerenciamento de permissões e criação de usuários  
-  • <strong>Active Directory</strong> e <strong>Windows Server 2016</strong>  
-  • Configuração e monitoramento de <strong>redes, VPN e firewall (PfSense)</strong>  
-  • Diagnóstico e resolução de falhas em sistemas Windows  
-  • Instalação, montagem e manutenção de hardware  
-  • Segurança de rede e suporte a sistemas ERP  
-  • Desenvolvimento web com <strong>HTML, CSS, JavaScript, Python e WordPress</strong>  
-  • Integração entre front-end e back-end seguindo boas práticas  
+  • Suporte técnico remoto e presencial (Service Desk)  
+  • Administração de ambientes <strong>Microsoft 365</strong> e <strong>Entra ID (Azure AD)</strong>  
+  • Gestão de usuários, permissões, licenças, políticas de senha e MFA  
+  • <strong>Active Directory</strong> e <strong>Windows Server</strong>  
+  • Monitoramento proativo de ativos e servidores (RMM)  
+  • Administração de redes <strong>LAN/WAN</strong>, firewall e segurança básica  
+  • Troubleshooting de hardware, software e sistemas Windows  
+  • Antivírus corporativo (<strong>Bitdefender</strong> e <strong>Kaspersky</strong>)  
+  • Suporte a <strong>OneDrive</strong> e <strong>SharePoint</strong>  
+  • Manutenção e configuração de estações, servidores e impressoras  
+  • Conhecimentos em desenvolvimento web (<strong>HTML, CSS, JavaScript, Python e WordPress</strong>)  
 
-  🚀 Meu objetivo é evoluir continuamente como profissional de tecnologia,  
-  aplicando meus conhecimentos para entregar **soluções eficientes, seguras e inovadoras**.
+  🚀 Busco evolução contínua em <strong>infraestrutura, cloud e segurança da informação</strong>, 
+  atuando com responsabilidade técnica e foco em ambientes corporativos de médio e grande porte.
 
-  📫 Você pode me encontrar também no <a href="https://www.linkedin.com/in/bruunoosilva/" target="_blank">LinkedIn</a>.
+  📫 Conecte-se comigo no <a href="https://www.linkedin.com/in/bruunoosilva/" target="_blank">LinkedIn</a>.
 </details>
 
 <br>
@@ -60,8 +62,6 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Bootstrap" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="MySQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
@@ -71,28 +71,23 @@
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Dreamweaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg">
-  <img align="center" alt="Sublime" height="40" width="40" src="https://iconape.com/wp-content/files/yy/99728/png/sublime-text.png">
   <img align="center" alt="GitHub" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </p>
 
 ---
 
 <!-- Portfólio -->
-<h2 align="center">🌐 Meu Portfólio Oficial</h2>
+<h2 align="center">🌐 Meu Portfólio</h2>
 
 <p align="center">
-
 <a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-%230A66C2?style=for-the-badge&logoColor=white&logo=google-chrome&labelColor=001F3F&color=0057D9" />
 </a>
 </p>
 
-
 <p align="center">
-  <em>Este é o meu portfólio principal, onde organizo meus projetos de infraestrutura, automação, suporte, cloud e desenvolvimento web.</em>
+  <em>Portfólio com projetos e estudos em suporte, infraestrutura, cloud e automação.</em>
 </p>
-
 
 <!-- GIF -->
 <p align="center">
