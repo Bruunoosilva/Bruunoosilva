@@ -45,13 +45,6 @@
 
 <br>
 
-<!-- Estatísticas -->
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruunoosilva&layout=compact&theme=react&hide_border=true"/>
-</p>
-
 ---
 
 <h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
