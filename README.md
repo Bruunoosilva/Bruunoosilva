@@ -75,6 +75,14 @@ Sustentação da infraestrutura de TI da instituição. Administração de Activ
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunosantos-it/brunosantos-it/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunosantos-it/brunosantos-it/output/snake.svg">
+    <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/brunosantos-it/brunosantos-it/output/snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/brunosantos-it">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:bruno.silva1608@gmail.com">bruno.silva1608@gmail.com</a>
 </p>
