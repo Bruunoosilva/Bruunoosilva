@@ -1,88 +1,80 @@
-<!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Olá, mundo!</h1></summary>
-</div>
+<h1 align="center">Bruno da Silva Santos</h1>
 
-<!-- Apresentação -->
 <p align="center">
-💻 <strong>Analista de Infraestrutura & Suporte Técnico | Cloud | Microsoft 365 | Redes & Firewall</strong><br>
-🎓 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-📍 São Paulo, Brasil
+  Analista de Infraestrutura &amp; Suporte Técnico &nbsp;·&nbsp; Service Desk &nbsp;·&nbsp; Microsoft 365 &amp; Identity<br>
+  Redes &amp; Segurança &nbsp;·&nbsp; IT Infrastructure &amp; Operations
+</p>
+
+<p align="center">
+  São Paulo, Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunosantos-it">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:bruno.silva1608@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-24292F?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
 
 ---
 
-<!-- Sobre mim -->
-<details>
-  <summary>👨‍💻 Um pouco mais sobre mim</summary><br>
+## Sobre
 
-  Olá! Me chamo <strong>Bruno Santos</strong> e atuo em ambientes corporativos de TI com foco em 
-  <strong>suporte técnico, infraestrutura e cloud</strong>, garantindo estabilidade operacional, segurança e continuidade dos serviços.
+Profissional de TI com cerca de 4 anos de experiência em suporte técnico e infraestrutura corporativa.
 
-  Tenho experiência em <strong>atendimento remoto e field</strong>, análise e resolução de incidentes, 
-  cumprimento de SLAs e administração de ambientes corporativos Microsoft.
+Atuo em ambiente multicliente com cerca de **40 empresas** e **350 usuários**, administrando Microsoft 365, Entra ID (Azure AD), Google Workspace, Active Directory, Windows Server, redes e segurança da informação. Mais de **1.000 chamados** atendidos, com gestão de incidentes por criticidade e forte aderência a SLA.
 
-  **Principais competências técnicas:**
-
-  • Suporte técnico remoto e presencial (Service Desk)  
-  • Administração de ambientes <strong>Microsoft 365</strong> e <strong>Entra ID (Azure AD)</strong>  
-  • Gestão de usuários, permissões, licenças, políticas de senha e MFA  
-  • <strong>Active Directory</strong> e <strong>Windows Server</strong>  
-  • Monitoramento proativo de ativos e servidores (RMM)  
-  • Administração de redes <strong>LAN/WAN</strong>, firewall e segurança básica  
-  • Troubleshooting de hardware, software e sistemas Windows  
-  • Antivírus corporativo (<strong>Bitdefender</strong> e <strong>Kaspersky</strong>)  
-  • Suporte a <strong>OneDrive</strong> e <strong>SharePoint</strong>  
-  • Manutenção e configuração de estações, servidores e impressoras  
-  • Conhecimentos em desenvolvimento web (<strong>HTML, CSS, JavaScript, Python e WordPress</strong>)  
-
-  🚀 Busco evolução contínua em <strong>infraestrutura, cloud e segurança da informação</strong>, 
-  atuando com responsabilidade técnica e foco em ambientes corporativos de médio e grande porte.
-
-  📫 Conecte-se comigo no <a href="https://www.linkedin.com/in/bruunoosilva/" target="_blank">LinkedIn</a>.
-</details>
-
-<br>
+Formado em Análise e Desenvolvimento de Sistemas, inglês avançado. Foco em estabilidade operacional, continuidade de serviços e evolução técnica em ambientes enterprise.
 
 ---
 
-<h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
+## Stack técnica
 
-<p align="center">
-  <!-- Linguagens -->
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID">
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Google%20Workspace-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
 </p>
 
-<p align="center">
-  <!-- Ferramentas -->
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-</p>
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Cloud & Colaboração** | Microsoft 365 · Entra ID (Azure AD) · SharePoint · OneDrive · Microsoft Teams · Outlook · Google Workspace |
+| **Identidade & Acesso** | Gestão de usuários, grupos, permissões, licenças, políticas de senha, MFA e compartilhamentos |
+| **Infraestrutura & Servidores** | Active Directory · Windows Server 2016 · GPO · administração de sistemas Windows, servidores e estações |
+| **Redes & Segurança** | LAN/WAN · DNS · DHCP · VPN · firewall (pfSense) · switches · roteadores · access points · proteção de endpoints e antivírus corporativo (Bitdefender, Kaspersky) |
+| **Operações & Suporte** | Service Desk · gestão de incidentes · SLA · troubleshooting · atendimento remoto e presencial · Tactical RMM · Milvus · Zabbix |
+| **Hardware & Complementar** | Montagem e manutenção de estações, impressoras, periféricos e ramais PABX · HTML · CSS · JavaScript · Python · Git · WordPress |
 
 ---
 
-<!-- Portfólio -->
-<h2 align="center">🌐 Meu Portfólio</h2>
+## Experiência
+
+**ITICOM Tecnologia** — Analista de Suporte Técnico · Abr/2025 – Atual  
+Ambiente multicliente de aproximadamente 40 empresas e 350 usuários. Administração de Microsoft 365, Google Workspace e Entra ID (Azure AD), gestão de identidade e acesso, monitoramento via Tactical RMM, configuração de firewalls, switches, roteadores e access points, e gestão de incidentes com aderência a SLA.
+
+**Instituto Nacional de Educação a Distância** — Assistente de TI · Out/2022 – Nov/2024  
+Sustentação da infraestrutura de TI da instituição. Administração de Active Directory e Windows Server 2016, monitoramento com Zabbix, firewall pfSense, manutenção de estações e impressoras, suporte a PABX Digistar e criação de sites institucionais em WordPress.
+
+---
+
+## Formação e certificações
+
+| | |
+| :--- | :--- |
+| **Análise e Desenvolvimento de Sistemas** — Tecnólogo<br>Centro Universitário FMU \| FIAM-FAAM | Jan/2024 – Jul/2026 |
+| **Introdução à Cibersegurança** — Cisco Networking Academy | Jun/2026 |
+
+**Idiomas:** Português (nativo) · Inglês (avançado)
+
+---
 
 <p align="center">
-<a href="https://brunosantos-it-showcase.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-%230A66C2?style=for-the-badge&logoColor=white&logo=google-chrome&labelColor=001F3F&color=0057D9" />
-</a>
-</p>
-
-<p align="center">
-  <em>Portfólio com projetos e estudos em suporte, infraestrutura, cloud e automação.</em>
-</p>
-
-<!-- GIF -->
-<p align="center">
-  <img align="center" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Imagem">
+  <a href="https://www.linkedin.com/in/brunosantos-it">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:bruno.silva1608@gmail.com">bruno.silva1608@gmail.com</a>
 </p>
